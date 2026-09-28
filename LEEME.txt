@@ -1,0 +1,10 @@
+SISTEMA DE DETECCION DE GRIETAS - COMO USARLO
+==============================================
+1. Instala Python (python.org/downloads). En Windows marca "Add Python to PATH".
+2. Abre esta carpeta en VS Code (Archivo > Abrir carpeta).
+3. Abre la terminal de VS Code (Terminal > Nueva terminal).
+4. Escribe:   python -m pip install -r requirements.txt
+5. Escribe:   python -m streamlit run app/home.py
+Se abre solo en el navegador. Para cerrar: Ctrl + C en la terminal.
+
+Atajo: en Windows, doble clic en iniciar.bat hace los pasos 4 y 5.
